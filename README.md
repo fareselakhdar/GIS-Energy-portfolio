@@ -1,3 +1,4 @@
+<img width="1274" height="548" alt="methane_algeria_2024" src="https://github.com/user-attachments/assets/c2ea54c8-3d91-44d8-a1ac-17e6ccc9a7ef" />
 #  GIS Energy Portfolio — Fares Elakhdar
 
 GIS Analyst | Remote Sensing | Google Earth Engine | QGIS
