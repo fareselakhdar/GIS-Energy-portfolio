@@ -11,7 +11,7 @@ Focused on energy sector applications — TotalEnergies operations areas
 - Area: TotalEnergies upstream operations, Algeria
 - Data: COPERNICUS/S5P/OFFL/L3_CH4 — 2024 annual mean
 - Status: In progress
-- - Script: [View on GEE](https://code.earthengine.google.com/6519a31d197fec192df7bdaa924bedc2)
+- - Script: [View on GEE](https://code.earthengine.google.com/4750f81632e3a946af4dca92498d167f)
 ## Skills
 QGIS · Google Earth Engine · Remote Sensing · Python · PostGIS · ArcGIS Pro · Spatial Analysis · Cartography
 
