@@ -18,4 +18,4 @@ Focused on energy sector applications — TotalEnergies operations areas
 QGIS · Google Earth Engine · Remote Sensing · Python · PostGIS · ArcGIS Pro · Spatial Analysis · Cartography
 
 ## Languages
-Arabic (Native) · English (B2) · French (A1 — learning)
+Arabic (Native) · English (B2) · French (A2 — learning)
